@@ -5,4 +5,5 @@
 ##### H5
 ###### H6
 
-remote_theme: THEME-NAME
+theme: minima
+remote_theme: jekyll/minima
