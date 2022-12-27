@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head> </head>
+<body>
+<form>
+ enter paragraph:
+    <input type="date" name="displayed text">
+    Number of days: <input type="number" name="displayed text" min="number" max="number"
+</form>
+</body>
+</html>
